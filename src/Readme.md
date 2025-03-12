@@ -4,4 +4,4 @@
 2.hacemos commit de lo necesario<br>
 3.Eliminamos el commit innecesario de interface con drop commit
 
-![DropCommit.png](../../DropCommit.png)
+![Hola](DropCommit.png)
