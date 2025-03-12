@@ -5,3 +5,5 @@
 3.Eliminamos el commit innecesario de interface con drop commit
 
 ![Hola](DropCommit.png)
+4.Nos quedaria tal que asi:
+![Ramas merge.png](Ramas%20merge.png)
