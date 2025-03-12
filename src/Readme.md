@@ -6,4 +6,4 @@
 
 ![Hola](DropCommit.png)
 4.Nos quedaria tal que asi:
-![Merge](Ramas%20merge.png)
+![MergeRamas.png](MergeRamas.png)
